@@ -1,5 +1,3 @@
-# yulu
-
 ## Project setup
 ```
 npm install
